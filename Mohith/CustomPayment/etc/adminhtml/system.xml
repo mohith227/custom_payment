@@ -24,8 +24,7 @@
                         <field id="*/*/active">1</field>
                     </depends>
                     <label>Select Customer Groups To Enable Payment Method For</label>
-                    <source_model>Mohith\CustomPayment\Model\Adminhtml\System\Config\Source\Customer\Group
-                    </source_model>
+                    <source_model>Mohith\CustomPayment\Model\Adminhtml\System\Config\Source\Customer\Group</source_model>
                 </field>
             </group>
         </section>
